@@ -147,10 +147,37 @@
         "sampler": "euler_ancestral",
         "scheduler": "karras",
         "steps": 15,
-        "cfg": 6,
+        "cfg": 7,
         "width": 832,
         "height": 1216,
         "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-10 (low for realism, high for cartoons)\nResolution: 1024 x 1344\ntoon (style) or western comics (style)"
+    },
+    "Arthemy Toons v2.0": {
+        "sampler": "euler_ancestral",
+        "scheduler": "karras",
+        "steps": 15,
+        "cfg": 3.5,
+        "width": 832,
+        "height": 1216,
+        "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-7 (low for realism, high for cartoons)\nResolution: 1024 x 1344\ntoon (style)"
+    },
+    "Arthemy Toons v3.0": {
+        "sampler": "euler_ancestral",
+        "scheduler": "karras",
+        "steps": 15,
+        "cfg": 7,
+        "width": 832,
+        "height": 1216,
+        "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-10 (low for realism, high for cartoons)\nResolution: 1024 x 1344\ntoon (style)"
+    },
+    "Arthemy Anime": {
+        "sampler": "euler_ancestral",
+        "scheduler": "karras",
+        "steps": 15,
+        "cfg": 7,
+        "width": 832,
+        "height": 1216,
+        "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-7 \nResolution: 1024 x 1344"
     },
     "Event Horizon Cartoon": {
         "sampler": "euler_ancestral",
