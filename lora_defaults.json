@@ -224,6 +224,156 @@
         "triggerWords": "(highly_stylized:2) or (mgirly:1.5) or (mfant:1.5) or (m18+:1.5)",
         "recommended": ""
     },
+    "Cloth_OpenFront": {
+        "prompt": "",
+        "triggerWords": "long sleeves open-front nightgown,black nightgown,lace trim,lace waist,lace cuff,lace hem,cleavage,navel,black panties",
+        "recommended": ""
+    },
+    "Cloth_Home": {
+        "prompt": "",
+        "triggerWords": "heavy shirred bust with wood-ear trim, xg1, milk-white ruffle camisole, off shoulder, tiny floral pattern camisole, thin spaghetti straps, fluffy cloud-like texture",
+        "recommended": ""
+    },
+    "Cloth_Dongtan": {
+        "prompt": "",
+        "triggerWords": "dongtan dress, cleavage, taut dress, grey dress, collarbone,",
+        "recommended": ""
+    },
+    "Cloth_CrossLaced": {
+        "prompt": "",
+        "triggerWords": "ribbed dress, cross-laced dress",
+        "recommended": ""
+    },
+    "Cloth_Coastin": {
+        "prompt": "",
+        "triggerWords": "dress, white belt, collared dress, long sleeves, white sleeves, cleavage cutout, print dress, hairband, platform heels",
+        "recommended": ""
+    },
+    "Cloth_Deep V": {
+        "prompt": "",
+        "triggerWords": "dress, yellow dress",
+        "recommended": ""
+    },
+    "Cloth_Plait": {
+        "prompt": "",
+        "triggerWords": "dress, yellow dress",
+        "recommended": ""
+    },
+    "Cloth_Bardot": {
+        "prompt": "",
+        "triggerWords": "dress, cleavage, fishnet gloves, beret, plaid dress, orange dress",
+        "recommended": ""
+    },
+    "Cloth_Chiffon": {
+        "prompt": "",
+        "triggerWords": "D027, white chiffon night dress,full length dress, pink thong,see-through,lifting skirt, dress open",
+        "recommended": ""
+    },
+    "Cloth_Leopard": {
+        "prompt": "",
+        "triggerWords": "dress,plunging neckline,animal print",
+        "recommended": ""
+    },
+    "Cloth_Maid": {
+        "prompt": "",
+        "triggerWords": "Hot_Maid_Apron_Lingerie",
+        "recommended": ""
+    },
+    "Cloth_Silk Babydoll": {
+        "prompt": "",
+        "triggerWords": "silk camisole, silk panties, satin, shiny clothes",
+        "recommended": "see-through camisole, see-through panties"
+    },
+    "Cloth_Valentines": {
+        "prompt": "",
+        "triggerWords": "see-through, nightgown, heart print",
+        "recommended": ""
+    },
+    "Cloth_Heart": {
+        "prompt": "",
+        "triggerWords": "red lingerie, heart-shaped bra, see-through, cupless bra",
+        "recommended": ""
+    },
+    "Cloth_Cheongsam": {
+        "prompt": "",
+        "triggerWords": "satin dress, side slit, cheongsam lingerie, chinese clothes, china dress",
+        "recommended": ""
+    },
+    "Cloth_Polka": {
+        "prompt": "",
+        "triggerWords": "lingerie, skirt, midriff, polka dot, crop top,thighhighs",
+        "recommended": ""
+    },
+    "Cloth_Maneater": {
+        "prompt": "",
+        "triggerWords": "pink dress, heart print velvet dress, long dress",
+        "recommended": ""
+    },
+    "Cloth_Ribbon": {
+        "prompt": "",
+        "triggerWords": "naked ribbon,red ribbon",
+        "recommended": ""
+    },
+    "Cloth_Cotchless": {
+        "prompt": "",
+        "triggerWords": "lingerie, crotchless",
+        "recommended": ""
+    },
+    "Cloth_Сowpens": {
+        "prompt": "",
+        "triggerWords": "cowpens (azur lane), azur lane",
+        "recommended": "animal ears,horns,fake animal ears,fake horns,cow ears,cow horns,cow girl,navel,bare shoulders,collarbone,midriff,stomach,covered nipples,skindentation,gloves,sleeveless,black gloves,elbow gloves,leotard,clothing cutout,sideboob,animal print,revealing clothes,cow print,navel cutout,cow print bikini,print gloves,neck bell,cowbell,thighhighs,thighs,black thighhighs,garter straps,"
+    },
+    "Cloth_Chemise": {
+        "prompt": "",
+        "triggerWords": "purple chemise, curvy, large breasts, naughty",
+        "recommended": ""
+    },
+    "Cloth_Elegant": {
+        "prompt": "",
+        "triggerWords": "white coat,open coat,long sleeves,brown shirt,turleneck shirt",
+        "recommended": "white plaid miniskirt,shirt tucked in,brown pantyhose"
+    },
+    "Cloth_Camisole": {
+        "prompt": "",
+        "triggerWords": "shorts, camisole, satin",
+        "recommended": ""
+    },
+    "Cloth_Qipao": {
+        "prompt": "",
+        "triggerWords": "white dress,cleavage cutout,sleeveless,bare shoulders,pelvic curtain,side slit,see-through,clothing print,cross-laced",
+        "recommended": ""
+    },
+    "Cloth_Moomoo": {
+        "prompt": "",
+        "triggerWords": "red bow on head,cowbell,red bow choker,cow print bikini,elbow gloves,o-ring,chain,red thigh strap,thighhighs,black high heels",
+        "recommended": ""
+    },
+    "Cloth_Moo": {
+        "prompt": "",
+        "triggerWords": "cowpens (azur lane), cowpens (milky ministrations) (azur lane), azur lane",
+        "recommended": "maid headdress,fake animal ears,fake horns,cow ears,cow horns,cow girl,navel,cleavage,bare shoulders,stomach,skindentation,plump,gloves,bow,swimsuit,bikini,elbow gloves,white gloves,collar,underboob,side-tie bikini bottom,bell,white bikini,animal print,string bikini,micro bikini,corset,cross-laced clothes,cow print,print bikini,cowbell,red collar,cow print bikini,thighhighs,underwear,panties,thighs,white thighhighs,thick thighs,garter straps,garter belt,print thighhighs"
+    },
+    "Cloth_Bunny": {
+        "prompt": "",
+        "triggerWords": "rabbit hood, highleg, knit leotard, zipper, thighhighs, long sleeves",
+        "recommended": "back cutout, rabbit tail"
+    },
+    "Cloth_Fishnet": {
+        "prompt": "",
+        "triggerWords": "fishnet bodysuit, covered nipples",
+        "recommended": ""
+    },
+    "Cloth_Ghost": {
+        "prompt": "",
+        "triggerWords": ",sexy_ghost_thd,ghost costume,see-through silhouette,covered face",
+        "recommended": ""
+    },
+    "Cloth_Apron": {
+        "prompt": "",
+        "triggerWords": "apron,naked apron",
+        "recommended": ""
+    },
     "Cloth_Killer Sweater": {
         "prompt": "",
         "triggerWords": "virgin killer sweater, naked sweater, sweater dress, backless outfit, turtleneck sweater, backless dress, sideboob",
