@@ -1,0 +1,347 @@
+{
+    "Slider_Details": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 1 (best @ 0.5)"
+    },
+    "Slider_Cuteness": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 1 (best @ 0.5)"
+    },
+    "Slider_Subtleness": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 1 (best @ 0.5)"
+    },
+    "Slider_Realness": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 1 (best @ 0.8)"
+    },
+    "Slider_Candidness": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 1 (best @ 0.5)"
+    },
+    "Slider_Details_IL": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 5"
+    },
+    "Slider_Realism": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 3"
+    },
+    "Slider_Breast": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 3"
+    },
+    "Slider_BreastPuffy": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 6"
+    },
+    "Slider_Body": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -3 to 3"
+    },
+    "Slider_Ass": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 5"
+    },
+    "Slider_Makeup": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength upto 3"
+    },
+    "Slider_Lips": {
+        "prompt": "Thick_Lips",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Slider_RealisticSkin": {
+        "prompt": "detailed, sharp, cinematic, fine texture, Hyperrealistic, photorealistic, incredibly lifelike",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Slider_Mystic-XXX-ZIT-V5": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Slider_Detail": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -2 to +2"
+    },
+    "Slider_Breasts": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -2 to +2"
+    },
+    "Slider_Fat": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -3 to +3"
+    },
+    "Slider_Waist": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -2 to +2"
+    },
+    "Slider_Butt": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -2.5 to +2.5"
+    },
+    "Slider_Age": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -2 to +1"
+    },
+    "Slider_Light": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength -2 to +2"
+    },
+    "Slider_Curvy": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Strength 0.5 to 0.8"
+    },
+    "Pos_Handbra": {
+        "prompt": "handbra",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Pos_Pulledup": {
+        "prompt": "pulledup",
+        "triggerWords": "",
+        "recommended": "Add: shirt lift, clothes lift"
+    },
+    "Pos_CrossArms": {
+        "prompt": "cr0ssed, large breasts, breast squeeze",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Pos_ElbowSqueeze": {
+        "prompt": "b00bs",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_Disney": {
+        "prompt": "disney animation",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_Disney_Golden_Era": {
+        "prompt": "disneyxd",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_Melkor_Mancin": {
+        "prompt": "melkor_style",
+        "triggerWords": "",
+        "recommended": "Choose one:\n_chlo3_curr3y_\n_sidn3y_sw4nson_\n_j4nic3_h4nson_\n_p4m3l4_4nniculopolo3bo4h_\n_k3lly_sw4nson_\n_timothy_curr3y_"
+    },
+    "Style_Melkor_Mancin_Middle_Years": {
+        "prompt": "ffmelkormid",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_Western": {
+        "prompt": "chxrrygxg",
+        "triggerWords": "",
+        "recommended": "Character name"
+    },
+    "Style_Mixplin": {
+        "prompt": "mxpln",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_Milftoon": {
+        "prompt": "milftoonstyle",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_Antechinus": {
+        "prompt": "uncensored, anime coloring, shiny skin",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_ALYX": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Style_ExpressiveH": {
+        "prompt": "Expressiveh",
+        "triggerWords": "",
+        "recommended": "Add: Speedlines"
+    },
+    "Style_ExpressiveTHALA": {
+        "prompt": "ExpressiveTHALA",
+        "triggerWords": "",
+        "recommended": "Strength 0.5 to 0.8"
+    },
+    "Style_T_Rex": {
+        "prompt": "TRexStyle",
+        "triggerWords": "",
+        "recommended": "Add: (anime coloring, anime screencap), shiny skin"
+    },
+    "Char_Hisato Azuma": {
+        "prompt": "Hisato Azuma",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_Succubus Eri Morita": {
+        "prompt": "1girl, eri, black hair, long hair, breasts, large breasts",
+        "triggerWords": "",
+        "recommended": "Optional: glasses, cleavage\nponytail,denim,shirt,yellow shirt,short sleeves,jeans\napron,pink apron,shirt,white shirt,short sleeves,denim,jeans\nswimsuit,blue one-piece swimsuit,highleg swimsuit\nwings,head wings,elbow gloves,purple gloves,purple thighhighs,bikini,purple bikini,thighhighs,purple thighhighs,demon tail"
+    },
+    "Char_Kimura Yumiko": {
+        "prompt": "yumiko, 1girl, short hair, short ponytail, brown hair, brown eyes, big breasts, mole under mouth",
+        "triggerWords": "",
+        "recommended": "Optional: shirt, white shirt, apron, pink apron, short sleeves, skirt, blue skirt"
+    },
+    "Char_Lemonade Milf": {
+        "prompt": "m1lf_lemon, milf, long hair, pink hair, large breasts, wide hips",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_Party Time Mom": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_No Internet Mom": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_After Party Mom": {
+        "prompt": "Mom, purple hair, long hair, parted bangs, purple eyes, red lipstick",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_Tsunade": {
+        "prompt": "1girl, tsunade, mature female, blonde hair, long hair, brown eyes, forehead mark, mature female, large breasts, collarbone",
+        "triggerWords": "",
+        "recommended": "Optional: cleavage, grey kimono , haori // sleeveless, sash, pants, sandals"
+    },
+    "Char_Russian": {
+        "prompt": "rusu1",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_Verdia": {
+        "prompt": "vrdct, long hair, brown hair, blue eyes, sidelocks, french braid, blonde hair, hair between eyes",
+        "triggerWords": "",
+        "recommended": "white dress, frilled dress, nightgown, cleavage, collarbone, short sleeves, wide sleeves, see-through silhouette, covered navel, long dress"
+    },
+    "Char_Gyaru": {
+        "prompt": "KJOgyaru, blonde hair, long hair, ringed eyes, grey eyes, dark-skinned female",
+        "triggerWords": "",
+        "recommended": "hair between eyes or hair over one eye"
+    },
+    "Char_Litoe": {
+        "prompt": "Iitoe, MILF, brown hair, long hair, bangs, ponytail, brown eyes",
+        "triggerWords": "",
+        "recommended": "huge breasts"
+    },
+    "Char_Yoo Sangah": {
+        "prompt": "1 girl, solo, long hair, light brown hair, straight hair, brown eyes",
+        "triggerWords": "",
+        "recommended": "brown blazer, white t-shirt, brown pants"
+    },
+    "Char_Marbella": {
+        "prompt": "1 girl, solo, mature female, blue eyes, blonde hair, medium hair, messy hair, hair intakes",
+        "triggerWords": "",
+        "recommended": "pink dress, collarbone, cleavage, long sleeves"
+    },
+    "Char_Dasol": {
+        "prompt": "defDasol, red hair, medium hair, red eyes, large breasts",
+        "triggerWords": "",
+        "recommended": "single strap, black strap, shirt tucked in, blue skirt, off-shoulder shirt, white shirt, denim skirt, microskirt, ring necklace"
+    },
+    "Char_Yoo Jeong": {
+        "prompt": "yoo jeong-won, long hair, mature female, brown hair, brown eyes, parted bangs, sidelocks, hair between eyes, low ponytail",
+        "triggerWords": "",
+        "recommended": "mole on breast, white shirt, sleeves rolled up, black skirt, pencil skirt, miniskirt"
+    },
+    "Char_Sung Suho": {
+        "prompt": "sung_suho, black hair, short hair, grey eyes, bangs",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_Yu-hee Han": {
+        "prompt": "yuh33, red eyes, black hair, long hair, bangs",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Char_Matsumoto": {
+        "prompt": "rgku, orange hair, mole under mouth, blue eyes, long hair, lips, large breasts, collarbone, chain necklace",
+        "triggerWords": "",
+        "recommended": "black kimono, cleavage, pink scarf, white sash, wide sleeves"
+    },
+    "Char_Miyuki": {
+        "prompt": "inbo",
+        "triggerWords": "",
+        "recommended": "pink transparent nighty, sagging breast"
+    },
+    "Char_Aunt Cass": {
+        "prompt": "(cass hamada:0.8), nostracass, brown hair, short hair, green eyes",
+        "triggerWords": "",
+        "recommended": "large breasts, silver necklace, black shirt, denim pants, jeans, bracelet"
+    },
+    "Char_Cerestia": {
+        "prompt": "cerestia, 1girl, long hair, blue eyes, blonde hair, pointy ears, big breasts, lips, elf, slender body, soft curves, slim waist, large hips, big thighs",
+        "triggerWords": "",
+        "recommended": "navel, cleavage, clothing cutout, pelvic curtain, staff, white clothes with gold framed"
+    },
+    "Char_Tomoe": {
+        "prompt": "tomoe, cat girl, 1girl, large breasts, black hair, long hair, ponytail, brown cat eyes, cat ears, face tattoo, facial mark, black tabi, tan skin, thigh strap, cat tail",
+        "triggerWords": "",
+        "recommended": "cleavage, black japanese dress, pelvic curtain, black scarf"
+    },
+    "Char_Tsunade Real": {
+        "prompt": "tsunadesenju, (mature female), brown eyes, blonde hair, long hair, low twintails, lips, 1girl, solo, indoors, facial mark, tsunade, large breasts",
+        "triggerWords": "",
+        "recommended": "japanese clothes, green haori, grey kimono, blue obi, blue pants, cleavage"
+    },
+    "Char_Osira": {
+        "prompt": "loqos, dark-skinned female, black hair, long hair, blunt bangs, straight hair, yellow eyes, lips, facial mark, mole on breast, large breasts",
+        "triggerWords": "",
+        "recommended": ""
+    },
+    "Char_Elf Princess": {
+        "prompt": "Elise, 1girl, elf, mature female, blonde hair, long hair, green eyes, white pupil, pointy ears",
+        "triggerWords": "",
+        "recommended": "circlet,maxi dress, blue dress, cleavage-cutout, large breasts, long sleeves, sandals"
+    },
+    "Realistic Nudes v2": {
+        "prompt": "br0wnh0tties, realistic",
+        "triggerWords": "",
+        "recommended": "Mention Nationality"
+    },
+    "Race Helper": {
+        "prompt": "",
+        "triggerWords": "",
+        "recommended": "Choose one:\nasian_japanese, asian_chinese, asian_korean\neuropean_irish, european_french, european_german, european_italian\nafrican_east, african_west, thai, Indian, indigenous_american\narab, latina, Iranian, polynesian"
+    },
+    "MILF pack": {
+        "prompt": "milf",
+        "triggerWords": "",
+        "recommended": "N/A"
+    },
+    "Famegrid": {
+        "prompt": "igmodel, rlskn",
+        "triggerWords": "",
+        "recommended": "Strength 0.7 to 0.9"
+    }
+}

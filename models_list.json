@@ -1,0 +1,36 @@
+{
+    "SDXL": [
+        "SDXL\\IntoRealism Ultra v9.0.safetensors",
+        "SDXL\\GonzaLomo XL v6.0 DMD.safetensors",
+        "SDXL\\Mop Mix v6.1 DMD.safetensors",
+        "SDXL\\Event Horizon Nexus XL v5.0.safetensors"
+    ],
+    "illustrious": [
+        "illustrious\\WAI-illustrious-SDXL v16.0.safetensors",
+        "illustrious\\WAI-illustrious Mature v2.0.safetensors",
+        "illustrious\\One obsession Branch Mature MAX.safetensors",
+        "illustrious\\Galena CAT v5.safetensors",
+        "illustrious\\Diving-Illustrious Flat Anime v5.0.safetensors",
+        "illustrious\\Bridge Toons Weeb.safetensors",
+        "illustrious\\Bridge Toons.safetensors",
+        "illustrious\\Bridge Toons Midway.safetensors",
+        "illustrious\\Bridge Toons Comic.safetensors",
+        "illustrious\\Arthemy Western v3.0.safetensors",
+        "illustrious\\Event Horizon Cartoon.safetensors",
+        "illustrious\\CoMix v3.0.safetensors",
+        "illustrious\\ToonBabes v1.0.safetensors",
+        "illustrious\\Loxs Mature Reverie.safetensors",
+        "illustrious\\TIJED.safetensors",
+        "illustrious\\Illustrij v20.safetensors",
+        "illustrious\\Mistoon x 3D v3.0.safetensors",
+        "illustrious\\MAGIC ILL PhotoReal v2.0.safetensors",
+        "illustrious\\Babes Illustrious v5.0 DMD2.safetensors",
+        "illustrious\\Ultra Realistic v2.0 DMD2.safetensors",
+        "illustrious\\Dixar 4.safetensors"
+    ],
+    "ZIT": [
+        "ZIT\\Stable Yogi 2601 Q8.gguf",
+        "ZIT\\Stable Yogi 2602 Q8.gguf",
+        "ZIT\\ZIT Center v4.0 Q6.gguf"
+    ]
+}
