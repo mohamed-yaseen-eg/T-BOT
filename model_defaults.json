@@ -532,9 +532,9 @@
 
         "cfg": 1,
 
-        "width": 768,
+        "width": 832,
 
-        "height": 1024,
+        "height": 1216,
 
         "recommended": "Res Multistep\nsteps: 4-12, CFG: 1-2\nResolution: 512x512 / 1024x1024 / 768x1024"
 
