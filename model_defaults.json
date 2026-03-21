@@ -35,6 +35,23 @@
         "recommended": "LCM karras, exponential or beta\nsteps: 7 - 14, CFG: 1.0-1.3\nResolution: 896x1152 / 832x1216"
 
     },
+        "Ultra Realistic v2.0 DMD2": {
+
+        "sampler": "lcm",
+
+        "scheduler": "karras",
+
+        "steps": 9,
+
+        "cfg": 1,
+
+        "width": 832,
+
+        "height": 1216,
+
+        "recommended": "Euler A or LCM\nsteps: 5-10, CFG: 1-1.5\nResolution: 896x1120 / 832x1216"
+
+    },
 
     "Mop Mix v6.1 DMD": {
 
