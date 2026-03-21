@@ -1,578 +1,290 @@
 {
-
     "IntoRealism Ultra v9.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 10,
-
         "cfg": 1.5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A Karras or Exponential\nsteps: 6 - 12, CFG: 1.5 - 2\nResolution: 896x1152 / 832x1216"
-
     },
-
     "GonzaLomo XL v6.0 DMD": {
-
         "sampler": "lcm",
-
         "scheduler": "karras",
-
         "steps": 10,
-
         "cfg": 1,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "LCM karras, exponential or beta\nsteps: 7 - 14, CFG: 1.0-1.3\nResolution: 896x1152 / 832x1216"
-
     },
-        "Ultra Realistic v2.0 DMD2": {
-
+    "Ultra Realistic v2.0 DMD2": {
         "sampler": "lcm",
-
         "scheduler": "karras",
-
         "steps": 9,
-
         "cfg": 1,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or LCM\nsteps: 5-10, CFG: 1-1.5\nResolution: 896x1120 / 832x1216"
-
     },
-
     "Mop Mix v6.1 DMD": {
-
         "sampler": "lcm",
-
         "scheduler": "karras",
-
         "steps": 10,
-
         "cfg": 1,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "LCM karras, exponential or beta\nsteps: 6 - 14, CFG: 0.8-1.3\nResolution: 896x1152 / 832x1216"
-
     },
-
     "Event Horizon Nexus XL v5.0": {
-
         "sampler": "dpmpp_2m_sde",
-
         "scheduler": "karras",
-
         "steps": 20,
-
         "cfg": 4,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "DPM++ 2M SDE Karras\nsteps: 30-40, CFG: 3-5\nResolution: 896x1152 / 832x1216"
-
     },
-
     "Babes Illustrious v5.0 DMD2": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 8,
-
         "cfg": 1.1,
-
         "width": 896,
-
         "height": 1120,
-
         "recommended": "Euler A or LCM\nsteps: 3-8, CFG: 1-1.5\nResolution: 896x1120 / 832x1216"
-
     },
-
     "MAGIC ILL PhotoReal v2.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM SDE\nsteps: 25-40, CFG: 3-7\nResolution: 832x1216 / 1080x1440"
-
     },
-
     "WAI-illustrious-SDXL v16.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 6,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 15-30, CFG: 5-7\nResolution: 832x1216 / 1024x1024"
-
     },
-
     "WAI-illustrious Mature v2.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 6,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 15-30, CFG: 5-7\nResolution: 832x1216"
-
     },
-
     "ToonBabes v1.0": {
-
         "sampler": "dpmpp_2m",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 25-40, CFG: 4-8\nResolution: 896x1120 / 832x1216"
-
     },
-
     "Flashpoint Zexal": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 30-40, CFG: 4-6\nResolution: 896x1120 / 832x1216"
-
     },
-
     "Diving-Illustrious Flat Anime v5.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 896,
-
         "height": 1152,
-
         "recommended": ""
-
     },
-
     "One obsession Branch Mature MAX": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or Euler\nsteps: 15-35, CFG: 2-7\nResolution: 768X1344 832X1216 768X1280 704X1408"
-
     },
-
     "Illustrij v20": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 896,
-
         "height": 1152,
-
         "recommended": "Euler A\nsteps: 20-40, CFG: 5-7\nResolution: 896x1152"
-
     },
-
     "Galena CAT v5": {
-
         "sampler": "dpmpp_2m",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "DPM++ 2M Karras\nsteps: 20-40, CFG: 5-7\nResolution: 768x1344, 896x1152, 832x1216"
-
     },
-
     "CoMix v3.0": {
-
         "sampler": "euler",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 4,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler\nsteps: 20-30, CFG: 4-6\nResolution: 768x1344, 896x1152, 832x1216"
-
     },
-
     "Loxs Mature Reverie": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "normal",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 20-40, CFG: 4-8\nResolution: 768x1344, 896x1152, 832x1216"
-
     },
-
     "TIJED": {
-
         "sampler": "dpmpp_2m",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 20-30, CFG: 4-7\nResolution: 896x1152"
-
     },
-
     "Arthemy Western v3.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-10 (low for realism, high for cartoons)\nResolution: 1024 x 1344\ntoon (style) or western comics (style)"
-
     },
-
     "Arthemy Toons v2.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 3.5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-7 (low for realism, high for cartoons)\nResolution: 1024 x 1344\ntoon (style)"
-
     },
-
     "Arthemy Toons v3.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-10 (low for realism, high for cartoons)\nResolution: 1024 x 1344\ntoon (style)"
-
     },
-
     "Arthemy Anime": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 7,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A or DPM++ 2M\nsteps: 25-50, CFG: 3.5-7 \nResolution: 1024 x 1344"
-
     },
-
     "Event Horizon Cartoon": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 20-30, CFG: 3-5 Denoising: 0.65 - 0.8\nResolution: 1024 x 1344\ntoon (style) or western comics (style)"
-
     },
-
     "Mistoon x 3D v3.0": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 2,
-
         "width": 896,
-
         "height": 1152,
-
         "recommended": "Euler A, DPM++ 2M Karras or LCM Simple\nsteps: 12-20, CFG: 2-5\nResolution: 896x1152"
-
     },
-
     "Dixar 4": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "beta",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 896,
-
         "height": 1152,
-
         "recommended": "Euler A Beta or DPM++ 2M Karras\nsteps: 20-40, CFG: 4-7\nResolution: 896x1152"
-
     },
-
     "Bridge Toons Midway": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 20-40, CFG: 5-7\nResolution: 896x1152, 832x1216"
-
     },
-
     "Bridge Toons Weeb": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 20-40, CFG: 5-7\nResolution: 896x1152, 832x1216"
-
     },
-
     "Bridge Toons": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 20-40, CFG: 5-7\nResolution: 896x1152, 832x1216"
-
     },
-
     "Bridge Toons Comic": {
-
         "sampler": "euler_ancestral",
-
         "scheduler": "karras",
-
         "steps": 15,
-
         "cfg": 5,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Euler A\nsteps: 20-40, CFG: 5-7\nResolution: 896x1152, 832x1216"
-
     },
-
     "Stable Yogi 2601 Q8.gguf": {
-
         "sampler": "res_multistep",
-
         "scheduler": "simple",
-
         "steps": 8,
-
         "cfg": 1,
-
         "width": 768,
-
         "height": 1024,
-
         "recommended": "Res Multistep\nsteps: 4-12, CFG: 1-2\nResolution: 512x512 / 1024x1024 / 768x1024"
-
     },
-
     "Stable Yogi 2602 Q8.gguf": {
-
         "sampler": "res_multistep",
-
         "scheduler": "simple",
-
         "steps": 8,
-
         "cfg": 1,
-
         "width": 832,
-
         "height": 1216,
-
         "recommended": "Res Multistep\nsteps: 4-12, CFG: 1-2\nResolution: 512x512 / 1024x1024 / 768x1024"
-
     },
-
     "ZIT Center v4.0 Q6.gguf": {
-
         "sampler": "res_multistep",
-
         "scheduler": "simple",
-
         "steps": 8,
-
         "cfg": 1,
-
         "width": 768,
-
         "height": 1024,
-
         "recommended": "Res Multistep\nsteps: 4-12, CFG: 1-2\nResolution: 512x512 / 1024x1024 / 768x1024"
-
     }
-
 }
